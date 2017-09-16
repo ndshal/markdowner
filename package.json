@@ -1,0 +1,11 @@
+{
+  "name": "markdowner",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ndshal/markdowner.git",
+  "author": "Nikita Shalimov <ndshalimov@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^1.7.6"
+  }
+}
