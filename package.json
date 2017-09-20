@@ -6,7 +6,8 @@
   "author": "Nikita Shalimov <ndshalimov@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "electron": "^1.7.6"
+    "electron": "^1.7.6",
+    "marked": "^0.3.6"
   },
   "scripts": {
     "start": "electron ."
